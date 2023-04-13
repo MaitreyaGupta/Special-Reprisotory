@@ -1,0 +1,49 @@
+ 
+.Container{
+    background-color:red;
+    background-image: none;
+    box-sizing: border-box;
+    box-shadow: inset;
+}
+.Suborna{
+    background-color: aqua;
+    background-image:url("Rabindranath Tagore.jpg");
+    background-size: 20%;
+    padding-right:23%;
+    align-items: center;
+} 
+.Maya{
+    position: absolute;
+}
+
+.Maya:hover{
+    color:red; 
+    size:12px; 
+}
+ 
+.Mayala{
+    position: center;
+}
+.Starter{
+    font-style: bold;
+    font-variant: inherit;
+    font-size: 12;
+    color:blue;
+}
+.Starter1{
+    font-style: bold;
+    font-variant: inherit;
+    font-size: 12;
+    color:red;
+}
+.Im{
+    size: 50%;
+}
+.Line{
+    color:purple;
+    background-size: 12px;
+    background-origin: border-box;
+    font-size:large;
+    font-style:italic;
+
+}
